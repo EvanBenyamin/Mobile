@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/Users/hotas/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.6" />
         <entry key="..\:/Users/hotas/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main3.xml" value="0.264" />
+        <entry key="..\:/Users/hotas/AndroidStudioProjects/MyApplication/app/src/main/res/layout/content_main.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/hotas/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_first.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/hotas/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_second.xml" value="0.21981981981981982" />
       </map>
     </option>
   </component>
